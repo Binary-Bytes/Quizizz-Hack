@@ -34,4 +34,4 @@ Now :
 
 <h2 id="inAction">Hack in Action</h2>
 
-![Hack-in-Action](https://github.com/Binary-Bytes/Quizizz-Hack/blob/master/Hack-in-Action.mp4)
+<img src="Hack-in-Action.mp4">
