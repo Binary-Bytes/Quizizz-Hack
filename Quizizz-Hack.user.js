@@ -14,6 +14,7 @@
 
 /* globals jQuery, $, waitForKeyElements */
 // Credit to pie6k on GitHub for jquery.initialize.js
+// Credit to gbaranski on Github for quizizz-cheat
 
 (function() {
     'use strict';

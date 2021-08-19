@@ -3,44 +3,35 @@
 ## Table of Contents
 
 - [About](#about)
-- [Getting Started](#getting_started)
+- [Credits](#credits)
+- [Prerequisites](#pre)
 - [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
+- [Hack in Action](#inAction)
 
-## About
+## About {about}
 
-Quizizz Bot
+Quizizz Bot to Get All the Answers Correct and 100% Accuracy
 
-## Getting Started `<a name = "getting_started"></a>`
+## Credits {credits}
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+Credits to [pie6k](https://github.com/pie6k/) on Github For [jquery.initialize](https://github.com/pie6k/jquery.initialize).
 
-### Prerequisites
+Credits to [gbaranski](https://github.com/gbaranski/) on Github For [quizizz-cheat](https://github.com/gbaranski/quizizz-cheat).
 
-What things you need to install the software and how to install them.
+## Prerequisites {pre}
 
-```
-Give examples
-```
+Tampermonkey Chrome Extension
 
-### Installing
+## Usage {usage}
 
-A step by step series of examples that tell you how to get a development env running.
+Once You Have The Tampermonkey Extension, [Click Here](https://github.com/Binary-Bytes/Quizizz-Hack/raw/master/Quizizz-Hack.user.js) To Install The Hack
 
-Say what the step will be
+Now :
 
-```
-Give the example
-```
+- Start A New Quizz on [Quizizz.com](https://quizizz.com/)
+- As Soon As The 1st Question Loads, Reload the Page (ctrl + r) or (cmd + r)
+- A Button will Appear In The Bottom, Click It To Activate Hack
 
-And repeat
+## Hack in Action {inAction}
 
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## Usage `<a name = "usage"></a>`
-
-Add notes about how to use the system.
+![Hack in Action](https://github.com/Binary-Bytes/Quizizz-Hack/blob/master/Hack-In-Action.mp4)
