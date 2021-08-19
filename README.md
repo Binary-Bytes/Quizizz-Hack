@@ -34,4 +34,4 @@ Now :
 
 <h2 id="inAction">Hack in Action</h2>
 
-<img src="Hack-in-Action.mp4">
+<video src="Hack-in-Action.mp4" autoplay="true"></video>
