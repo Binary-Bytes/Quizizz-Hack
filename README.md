@@ -7,7 +7,7 @@
 - [Usage](#usage)
 - [Contributing](../CONTRIBUTING.md)
 
-## About `<a name = "about"></a>`
+## About
 
 Quizizz Bot
 
