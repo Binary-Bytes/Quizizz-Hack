@@ -6,7 +6,6 @@
 - [Credits](#credits)
 - [Prerequisites](#pre)
 - [Usage](#usage)
-- [Hack in Action](#inAction)
 
 <h2 id="about">About</h2>
 
@@ -31,7 +30,3 @@ Now :
 - Start A New Quizz on [Quizizz.com](https://quizizz.com/)
 - As Soon As The 1st Question Loads, Reload the Page (ctrl + r) or (cmd + r)
 - A Button will Appear In The Bottom, Click It To Activate Hack
-
-<h2 id="inAction">Hack in Action</h2>
-
-<video src="Hack-in-Action.mp4" autoplay="true"></video>
